@@ -22,6 +22,7 @@ full_custom_readme: |
    * regular security updates
   
   Find us at:
+
   * [Blog](https://blog.linuxserver.io) - all the things you can do with our containers including How-To guides, opinions and much more!
   * [Discord](https://discord.gg/YWrKVTn) - realtime support / chat with the community and the team.
   * [Discourse](https://discourse.linuxserver.io) - post on our community forum.
@@ -153,6 +154,7 @@ full_custom_readme: |
   ```
 
   **Note:** Vulkan supports three drivers:
+
     - ANV: To enable for Intel, set the env var `ANV_VIDEO_DECODE=1`
     - RADV: To enable on AMD, set the env var `RADV_PERFTEST=video_decode`
     - NVIDIA: To enable on Nvidia, install Nvidia Vulkan Beta drivers on the host per [this article](https://lynne.ee/vulkan-video-decoding.html#driver-support)
